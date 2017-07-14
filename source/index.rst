@@ -11,7 +11,7 @@ Welcome to python-guide's documentation!
    :caption: Contents:
 
    技术栈及参考书籍
-   如何编写优雅的代码
+   编写优雅的代码
    测试
    架构
    数据库
