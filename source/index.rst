@@ -10,7 +10,12 @@ Welcome to python-guide's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   技术栈及参考书籍
+   如何编写优雅的代码
    测试
+   架构
+   数据库
+   运维
 
 
 Indices and tables
