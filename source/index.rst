@@ -7,6 +7,7 @@ Welcome to python-guide's documentation!
 ========================================
 
 .. toctree::
+   :glob:
    :maxdepth: 2
    :caption: Contents:
 
@@ -16,6 +17,17 @@ Welcome to python-guide's documentation!
    架构
    数据库
    运维
+   版本控制
+   操作系统
+   程序员的自我修养
+   代码整洁之道
+   设计模式
+   数据结构与算法
+   C
+   docker
+   http
+   shell
+   cs/*
 
 
 Indices and tables
